@@ -34,7 +34,7 @@ text-decoration: underline;
 <h1>Victoria Sgarro</h1>
 
 <p>vrsgarro@wustl.edu</p>
-<a href=“http://www.victoriasgarro.com/” target=“_blank”>victoriasgarro.com</a>
+<a href=“http://www.victoriasgarro.com/” target=“_blank”>www.victoriasgarro.com</a>
 
 <hr>
 
